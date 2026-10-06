@@ -1,4 +1,3 @@
-// Dart Exercises - Mobile Development Lab
 void main() {
   String customerName = 'Luke Nathaniel Arellano';
   int itemQuantity = 4;
